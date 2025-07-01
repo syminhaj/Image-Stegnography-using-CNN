@@ -1,0 +1,17 @@
+🖼️ Image Steganography & Visualization Toolkit
+
+Welcome to the **Image Steganography & Visualization Toolkit** — a comprehensive and modular Python-based project that enables secure message encoding into images, 
+and provides tools for analyzing, visualizing, and understanding the impact of such techniques using computer vision and deep learning.
+
+🚀 How to Run
+# Encode or decode messages
+python code/steganography_lsb.py
+
+# Visualize image difference heatmap
+python code/visualize_differences.py
+
+# Analyze image using CNN feature maps
+python code/cnn_feature_extractor.py
+
+# Plot message length vs altered pixels
+python code/plot_message_vs_pixels.py
